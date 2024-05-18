@@ -49,6 +49,6 @@ body {
     /* Linear gradient from top to bottom */
     background: linear-gradient(to bottom, #ffffff, #d3b7ff);
     /* Ensures the gradient covers the entire viewport */
-    height: 1024px;
+    height: 1200px;
     margin: 0;
     }
